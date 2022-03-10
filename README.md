@@ -1,15 +1,15 @@
 # Hi 👋, I'm Vitaliy Petriv 
 ### I am eager to develop on real projects 
 
-- 🔭 I’m currently working on **My website a business card with all the work designed in the form of a project development plan**
+- 🔭 I’m currently working on **- My website a business card with all the work designed in the form of a project development plan**
 
-- 🌱 I’m currently learning **React and TypeScript**
+- 🌱 I’m currently learning **- React and TypeScript**
 
-- 🤝 I’m looking for help with **lack of practical experience**
+- 🤝 I’m looking for help with **- lack of practical experience**
 
-- 📫 How to reach me **vamnir132132@gmail.com**
+- 📫 How to reach me **- vamnir132132@gmail.com**
 
-- ⚡ Fun fact **I am also interested in design and therefore develop site layouts for myself**
+- ⚡ Fun fact **- I am also interested in design and therefore develop site layouts for myself**
 
 
 ## My works: 
