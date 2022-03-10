@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **- vamnir132132@gmail.com**
 
-- ⚡ Fun fact **- I am also interested in design and therefore develop site layouts for myself**
+- ⚡ Fun fact **- I am also interested in design and therefore develop site layouts for myself :)**
 
 
 ## My works: 
@@ -39,7 +39,7 @@ My first work:
 - Mobile first, adaptive site, actually made layout
 - JS: [more...](https://github.com/LooLoo1/SoloBarber#readme)
 - Layout: Figma [Layout made by myself in Figma](https://www.figma.com/file/DiSVw9nmqdqzK3FzOGwEkW/BarberShop_Sasha?node-id=0%3A1)
-
+- Fascinating burger menu animations on phones :)
 
 # [☁⛰MNTN🚶‍](https://looloo1.github.io/MNTN/)
 ### WebSite to test the speed of writing code and including JS with parallax time was 6 hours
