@@ -13,7 +13,7 @@
 
 
 ## My works: 
-# [🍀 Grow 🌿](https://looloo1.github.io/grow.github.io/)
+### [🍀 Grow 🌿](https://looloo1.github.io/grow.github.io/)
 
 A brief description of what this project does and who it's for
 
@@ -22,38 +22,44 @@ My first work:
 - CSS, Sass (Present adaptive)
 - Js: slider, dashboard and navigation
 - Layout: AdobeXD, Figma (Layout repeated in Figma and improved by adding a menu, slider, dashboard and page 404).
+<br>
 
+### [🔥MGG-project😈](https://looloo1.github.io/MGG-project/)
 
-# [🔥MGG-project😈](https://looloo1.github.io/MGG-project/)
-
-• Worked with:
+Worked with:
 - HTML;
 - CSS, Sass (Present adaptive)
 - JS: [more...](https://github.com/LooLoo1/MGG-project#readme)
 - Layout: Figma [Layout made by myself in Figma](https://www.figma.com/file/7alsCswlWi40Ens6ziM58l/MGG?node-id=0%3A1)
+<br>
 
-# [SoloBarber ✂](https://looloo1.github.io/SoloBarber/)
-### WebSite barber-shop for my good friend who used it
+### [SoloBarber ✂](https://looloo1.github.io/SoloBarber/)
+##### WebSite barber-shop for my good friend who used it:
 
 - Technologies: HTML5, CSS3, SASS, JS
 - Mobile first, adaptive site, actually made layout
 - JS: [more...](https://github.com/LooLoo1/SoloBarber#readme)
 - Layout: Figma [Layout made by myself in Figma](https://www.figma.com/file/DiSVw9nmqdqzK3FzOGwEkW/BarberShop_Sasha?node-id=0%3A1)
 - Fascinating burger menu animations on phones :)
+<br>
 
-# [☁⛰MNTN🚶‍](https://looloo1.github.io/MNTN/)
-### WebSite to test the speed of writing code and including JS with parallax time was 6 hours
+### [☁⛰MNTN🚶‍](https://looloo1.github.io/MNTN/)
+##### WebSite to test the speed of writing code and including JS with parallax time was 6 hours:
 
 - Technologies: HTML5, CSS3, SASS, JS
 - Adaptive site
 - JS: mouse parallax and nav bar
-
+<br>
 
 
 ## Connect with me:
 <p align="left">
-<a href="https://www.instagram.com/vitalik_petriv3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vitalik_petriv3/" height="30" width="40" /></a>
-</p><a href="https://codepen.io/looloo1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/looloo1" height="30" width="40" /></a>
+<a href="https://www.instagram.com/vitalik_petriv3/" target="blank">Instagram: <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vitalik_petriv3/" height="30" width="40" /></a>
+
+  <a href="https://codepen.io/looloo1" target="blank">CodePen: <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/looloo1" height="30" width="40" /></a>
+</p>
+
+
   
 
 ## Languages and Tools:
