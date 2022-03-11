@@ -22,18 +22,18 @@ My first work:
 - CSS, Sass (Present adaptive)
 - Js: slider, dashboard and navigation
 - Layout: AdobeXD, Figma (Layout repeated in Figma and improved by adding a menu, slider, dashboard and page 404).
-<br>
+<!-- <br> -->
 
-### [🔥MGG-project😈](https://looloo1.github.io/MGG-project/)
+### [🔥 MGG-project 😈](https://looloo1.github.io/MGG-project/)
 
 Worked with:
 - HTML;
 - CSS, Sass (Present adaptive)
 - JS: [more...](https://github.com/LooLoo1/MGG-project#readme)
 - Layout: Figma [Layout made by myself in Figma](https://www.figma.com/file/7alsCswlWi40Ens6ziM58l/MGG?node-id=0%3A1)
-<br>
+<!-- <br> -->
 
-### [SoloBarber ✂](https://looloo1.github.io/SoloBarber/)
+### [✂ SoloBarber](https://looloo1.github.io/SoloBarber/)
 ##### WebSite barber-shop for my good friend who used it:
 
 - Technologies: HTML5, CSS3, SASS, JS
@@ -41,15 +41,15 @@ Worked with:
 - JS: [more...](https://github.com/LooLoo1/SoloBarber#readme)
 - Layout: Figma [Layout made by myself in Figma](https://www.figma.com/file/DiSVw9nmqdqzK3FzOGwEkW/BarberShop_Sasha?node-id=0%3A1)
 - Fascinating burger menu animations on phones :)
-<br>
+<!-- <br> -->
 
-### [☁⛰MNTN🚶‍](https://looloo1.github.io/MNTN/)
+### [☁⛰ MNTN 🚶‍](https://looloo1.github.io/MNTN/)
 ##### WebSite to test the speed of writing code and including JS with parallax time was 6 hours:
 
 - Technologies: HTML5, CSS3, SASS, JS
 - Adaptive site
 - JS: mouse parallax and nav bar
-<br>
+<!-- <br> -->
 
 
 ## Connect with me:
